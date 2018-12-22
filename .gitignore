@@ -1,0 +1,3 @@
+# this for ignore
+venv/
+*.pyc
